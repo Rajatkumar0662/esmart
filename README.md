@@ -34,10 +34,10 @@ This project defines the working of smart city where the application allow user 
 
 # **2. Design**
 |Start page |Intro page|Registration|
-|-----------|----------|------------|
+|------------|------------|------------|
 |![page01](images/page1.png)|![page02](images/page2.png)|![page03](images/pag3.png)|
 |This contains the starting page of the applications
 
 |Login page |User Terminal 1|User Terminal 2|
-|-----------|----------|------------|
+|------------|------------|------------|
 |![page01](images/page4.png)|![page02](images/page5.png)|![page03](images/page6.png)|
