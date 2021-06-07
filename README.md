@@ -1,16 +1,43 @@
-# e_smart
+# **Ramaiah University of Applied Sciences!!** 
 
-A new Flutter project.
+Final Project Report!!
+=
 
-## Getting Started
+![logo](images/myLogo.jpg "Project Logo")
 
-This project is a starting point for a Flutter application.
+Project based on Tensor Flow
+===
 
-A few resources to get you started if this is your first Flutter project:
+### TEAM MEMBERS OF THE PROJECT
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|Sl. No.    |   Reg. No.    |   Name of the Student         |   Git Id / Email Id       |
+|-----      |------------   |---------------------------    |------------------------   |
+|01         |17ETCS002138   |RAJAT KUMAR SINGH              |rajatkumar066@gmail.com    |
+|02         |17ETCS002157   |SANOBAR SHAMIM                 |sanobarshamina5@gmail.com  |
+|03         |17ETCS002027   |ANKIT ANAND                    |060096@gmail.com           |
+|04         |17ETCS002089   |LAKSHYA CHANDRAKAR             |iam.lakshya123@gmail.com   |
+|05         |17ETCS002304   |MANAS KUMAR GA                 |mk175823@gmail.com         |
+|06         |17ETCS002096   |AVINASH PRAMESHWAR GORE        |avinashgore1995@gmail.com  |
+
+---
+# Content 
+- List of Tables
+- List of Tables
+
+1. Introduction
+2. Design
+
+# **1. Introduction**
+
+This project defines the working of smart city where the application allow user to plan their trip and also provide suggestion about charging station along with the time availiable to park your vehicle in that particular location.
+
+# **2. Design**
+|Start page |Intro page|Registration|
+|-----------|----------|------------|
+|![page01](images/page1.png)|![page02](images/page2.png)|![page03](images/pag3.png)|
+|This contains the starting page of the applications
+
+|Login page |User Terminal 1|User Terminal 2|
+|-----------|----------|------------|
+|![page01](images/page4.png)|![page02](images/page5.png)|![page03](images/page6.png)|
